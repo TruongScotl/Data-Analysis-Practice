@@ -4,5 +4,5 @@ P2 : variance_inflation_factor, residual, plot_regress_exog, tornado, mlxtend (s
 P3 : in P2, I have not separated yet \
 P4 : solving 'so many feature', tree.feature_importtances \
 P5 : map, decision tree \
-P6 : kmean, use KneeLocator to know best number of cluster
-
+P6 : kmean, use KneeLocator to know best number of cluster \
+diabetes_cancer_predict: Rigde, Lasso, StandardScaler, LogisticRegression
